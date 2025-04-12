@@ -10,7 +10,7 @@
 ## 🧰 Tech Stack
 
 ![Languages](https://skillicons.dev/icons?i=lua)
-![Tools](https://skillicons.dev/icons?i=,robloxstudio)
+![Tools](https://skillicons.dev/icons?i=robloxstudio)
 
 ---
 
