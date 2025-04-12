@@ -3,7 +3,7 @@
 ## 🚀 About Me
   
 🛠️ Building: **[Currently working on a Serverside and other projects with vulns in roblox]**  
-🎮 Hobbyist: [Games , Cyberpunk2077 or Roblox Exploiting.]
+🎮 Hobbyist: [I enjoy playing games such as Cyberpunk2077 and Exploiting in Roblox.]
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact
 
 - 🌐 Website: [guns.lol](https://guns.lol/oven)
 - 📷 Youtube: [Youtube](https://youtube.com/@Oven205)
