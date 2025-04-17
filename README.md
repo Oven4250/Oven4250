@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
   
-🛠️ Building: **Currently working on a Serverside and other projects with vulns in roblox**  
+🛠️ Building: **Currently working on a roblox Exploits and other projects with vulns in roblox**  
 🎮 Hobbyist: I enjoy playing games such as Cyberpunk2077 and Exploiting in Roblox.
 
 ---
